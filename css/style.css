@@ -1,0 +1,67 @@
+@charset "iso-8859-1";
+
+BODY {font-family: verdana,sans-serif; color: #333333; background: #cccccc; font-size:8pt}
+
+TABLE {font-size: 8pt; background: #ffffff; padding: 0px}
+
+H3 {font-size: 10pt; color: #000000; display: inline;}
+
+H4 {font-size: 10pt; color: #CB0000; display: inline;}
+
+H5 {font-size: 12pt; color: #CB0000; display: inline;}
+
+/*P {text-align: justify}*/
+
+.banner {height: auto; background: #cb0000}
+
+.logo {display:block}
+
+.mainmenu {font-family: verdana,sans-serif; color: #333333; text-decoration: none; font-size: 8pt;}
+
+.menutable {border: thin; border-width: 1px; border-color: #cccccc; border-style: outset; }
+
+.chromestyle{
+width: 99%;
+font-weight: normal;
+}
+
+.chromestyle:after{ /*Add margin between menu and rest of content in Firefox*/
+content: "."; 
+display: block; 
+height: 0; 
+clear: both; 
+visibility: hidden;
+}
+
+/* ######### Style for Drop Down Menu ######### */
+
+.dropmenudiv{
+border-left:1px solid #BBB; border-right:1px solid #BBB; border-top:1px solid #BBB; border-bottom:0px solid #BBB; position:absolute;
+top: 0;
+line-height:20px;
+z-index:100;
+background-color: white;
+width: 120px;
+visibility: hidden;
+filter: progid:DXImageTransform.Microsoft.Shadow(color=#CACACA,direction=135,strength=4); font-style:normal; font-variant:normal; font-weight:normal; font-size:9px; font-family:Verdana 
+}
+
+
+.dropmenudiv a{
+width: auto;
+display: block;
+text-indent: 3px;
+border-bottom: 1px solid #BBB; 
+padding: 2px 0;
+text-decoration: none;
+color: black;
+}
+
+* html .dropmenudiv a{ /*IE only hack*/
+width: 100%;
+}
+
+.dropmenudiv a:hover{ /*THEME CHANGE HERE*/
+background-color: #F0F0F0;
+color: #cb0000;
+}
