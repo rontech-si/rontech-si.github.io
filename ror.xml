@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
 <channel>
-  <title>ROR Sitemap for http://www.rontech.com.au/</title>
-  <link>http://www.rontech.com.au/</link>
+  <title>ROR Sitemap for http://rontech-si.github.io/</title>
+  <link>http://rontech-si.github.io/</link>
   <item>
-    <title>ROR Sitemap for http://www.rontech.com.au/</title>
-    <link>http://www.rontech.com.au/</link>
+    <title>ROR Sitemap for http://rontech-si.github.io/</title>
+    <link>http://rontech-si.github.io/</link>
     <ror:about>sitemap</ror:about>
     <ror:type>SiteMap</ror:type>
   </item>
 
 <item>
-     <link>http://www.rontech.com.au/</link>
+     <link>http://rontech-si.github.io/</link>
      <title>Alarm Monitoring, Alarm Systems, Access Control Systems, Security Systems, A1 Monitoring
 </title>
      <ror:updatePeriod></ror:updatePeriod>
@@ -19,7 +19,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/grade_a1_monitoring_station.php</link>
+     <link>http://rontech-si.github.io/grade_a1_monitoring_station.php</link>
      <title>A1 Monitoring, Alarm Monitoring, Video Monitoring, Security Alarm Monitoring, Security Systems
 </title>
      <ror:updatePeriod></ror:updatePeriod>
@@ -27,14 +27,14 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/alarm_systems.php</link>
+     <link>http://rontech-si.github.io/alarm_systems.php</link>
      <title>A1 Monitoring, Access Control, CCTV, Security Alarm Monitoring, Burglar Alarm</title>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/access_control_systems.php</link>
+     <link>http://rontech-si.github.io/access_control_systems.php</link>
      <title>Access Control Systems, Alarm Systems, Security Systems, Security Alarm, Security Surveillance
 </title>
      <ror:updatePeriod></ror:updatePeriod>
@@ -42,14 +42,14 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/security_systems.php</link>
+     <link>http://rontech-si.github.io/security_systems.php</link>
      <title>A1 Monitoring, Access Control, CCTV, Security Alarm Monitoring, Burglar Alarm</title>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/rontech_security_design.php</link>
+     <link>http://rontech-si.github.io/rontech_security_design.php</link>
      <title>Security System, Security Alarm, Alarm System, Security Alarm Monitoring, Security Surveillance
 </title>
      <ror:updatePeriod></ror:updatePeriod>
@@ -57,14 +57,14 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/help_desk.php</link>
+     <link>http://rontech-si.github.io/help_desk.php</link>
      <title>Alarm Monitoring, CCTV Systems, Intruder Detection, Security Alarm Monitoring</title>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/rontech_security_company_overview.php</link>
+     <link>http://rontech-si.github.io/rontech_security_company_overview.php</link>
      <title>Alarm Systems, Security Systems, Security Camera, Security Alarm, Security Alarm Monitoring
 </title>
      <ror:updatePeriod></ror:updatePeriod>
@@ -72,21 +72,21 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/privacy_statement.php</link>
+     <link>http://rontech-si.github.io/privacy_statement.php</link>
      <title>Alarm Monitoring, Security Alarm, Access Control Systems, Alarm Systems, CCTV Systems</title>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/terms_and_conditions.php</link>
+     <link>http://rontech-si.github.io/terms_and_conditions.php</link>
      <title>Access Control Systems, Security Systems, Security Alarm, Home Security</title>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/intruder_alarm_systems.php</link>
+     <link>http://rontech-si.github.io/intruder_alarm_systems.php</link>
      <title>Intruder Alarm Systems, Alarm Systems, Security Systems, Security Alarm, Security Camera
 </title>
      <ror:updatePeriod></ror:updatePeriod>
@@ -94,7 +94,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/cctv_surveillance_systems.php</link>
+     <link>http://rontech-si.github.io/cctv_surveillance_systems.php</link>
      <title>CCTV Systems, Security Surveillance, Security Camera, Access Control Systems, Security System
 </title>
      <ror:updatePeriod></ror:updatePeriod>
@@ -102,7 +102,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/rontech_security_installations.php</link>
+     <link>http://rontech-si.github.io/rontech_security_installations.php</link>
      <title>Security Systems, Security Alarm Monitoring, Access Control Systems, Home Security, Security Camera
 </title>
      <ror:updatePeriod></ror:updatePeriod>
@@ -110,7 +110,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/servicing_and_maintainance.php</link>
+     <link>http://rontech-si.github.io/servicing_and_maintainance.php</link>
      <title>Access Control Systems, Alarm Systems, Security Systems, CCTV Systems, Security Camera, Security Alarm
 </title>
      <ror:updatePeriod></ror:updatePeriod>
@@ -118,7 +118,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/all_day_remote_monitoring.php</link>
+     <link>http://rontech-si.github.io/all_day_remote_monitoring.php</link>
      <title>Alarm Monitoring, A1 Monitoring, Intruder Alarm System, Security Alarm, Video Monitoring 
 </title>
      <ror:updatePeriod></ror:updatePeriod>
@@ -126,7 +126,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/rontech_security_management.php</link>
+     <link>http://rontech-si.github.io/rontech_security_management.php</link>
      <title>Alarm Monitoring, Security Alarm Monitoring, Alarm System, Security System, Security Alarm
 </title>
      <ror:updatePeriod></ror:updatePeriod>
@@ -134,7 +134,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/rontech_security_faq.php</link>
+     <link>http://rontech-si.github.io/rontech_security_faq.php</link>
      <title>Alarm Monitoring, Security System, Security Alarm Monitoring, Home Security, A1 Monitoring
 </title>
      <ror:updatePeriod></ror:updatePeriod>
@@ -142,7 +142,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/downloads.php</link>
+     <link>http://rontech-si.github.io/downloads.php</link>
      <title>Alarm Monitoring, A1 Monitoring, Security Alarm Monitoring, Security System, Video Monitoring
 </title>
      <ror:updatePeriod></ror:updatePeriod>
@@ -150,7 +150,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/contact_rontech_security.php</link>
+     <link>http://rontech-si.github.io/contact_rontech_security.php</link>
      <title>Alarm Systems, Security Systems, Security Alarm, Home Security, Alarm Monitoring
 
 </title>
@@ -159,7 +159,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/sitemap.php</link>
+     <link>http://rontech-si.github.io/sitemap.php</link>
      <title>Intruder Alarm Systems, Alarm Systems, Security Systems, Security Alarm, Home Security, Security Camera
 </title>
      <ror:updatePeriod></ror:updatePeriod>
@@ -167,28 +167,28 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/security_cameras.php</link>
+     <link>http://rontech-si.github.io/security_cameras.php</link>
      <title>Intruder Detection, Alarm Monitoring, Home Security, A1 Monitoring, Home CCTV</title>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/rontech_security_access_control.php</link>
+     <link>http://rontech-si.github.io/rontech_security_access_control.php</link>
      <title>Access Control, Alarm, Security, Intruder Detection</title>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/pdfs/ASIAL_Grade_A1_Certificate_2008.PDF</link>
+     <link>http://rontech-si.github.io/pdfs/ASIAL_Grade_A1_Certificate_2008.PDF</link>
      <title></title>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/contact_rontech_security.php?id=Access</link>
+     <link>http://rontech-si.github.io/contact_rontech_security.php?id=Access</link>
      <title>Alarm Systems, Security Systems, Security Alarm, Home Security, Alarm Monitoring
 
 </title>
@@ -197,7 +197,7 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/contact_rontech_security.php?id=Secure</link>
+     <link>http://rontech-si.github.io/contact_rontech_security.php?id=Secure</link>
      <title>Alarm Systems, Security Systems, Security Alarm, Home Security, Alarm Monitoring
 
 </title>
@@ -206,14 +206,14 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/rontech_security_remote_monitoring.php</link>
+     <link>http://rontech-si.github.io/rontech_security_remote_monitoring.php</link>
      <title>A1 Monitoring, Alarm Monitoring, Video Monitoring, Intruder Detection, Alarm</title>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/contact_rontech_security.php?id=Cctv</link>
+     <link>http://rontech-si.github.io/contact_rontech_security.php?id=Cctv</link>
      <title>Alarm Systems, Security Systems, Security Alarm, Home Security, Alarm Monitoring
 
 </title>
@@ -222,70 +222,70 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/contact_rontech_security.php?comments=&#60;&#60;Security Installation&#62;&#62;</link>
+     <link>http://rontech-si.github.io/contact_rontech_security.php?comments=&#60;&#60;Security Installation&#62;&#62;</link>
      <title></title>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/pdfs/ASIAL_Grade_A1_Certificate_2010.pdf</link>
+     <link>http://rontech-si.github.io/pdfs/ASIAL_Grade_A1_Certificate_2010.pdf</link>
      <title></title>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/pdfs/ASIAL Member 2009b.pdf</link>
+     <link>http://rontech-si.github.io/pdfs/ASIAL Member 2009b.pdf</link>
      <title></title>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/pdfs/Work Cover Vic. 2009.pdf</link>
+     <link>http://rontech-si.github.io/pdfs/Work Cover Vic. 2009.pdf</link>
      <title></title>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/pdfs/Rontech_Corp_Oct06.pdf</link>
+     <link>http://rontech-si.github.io/pdfs/Rontech_Corp_Oct06.pdf</link>
      <title></title>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/pdfs/Multipath sales brochure inner range_20070719.pdf</link>
+     <link>http://rontech-si.github.io/pdfs/Multipath sales brochure inner range_20070719.pdf</link>
      <title></title>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/pdfs/Rontech_VicBusinessRegistration.PDF</link>
+     <link>http://rontech-si.github.io/pdfs/Rontech_VicBusinessRegistration.PDF</link>
      <title></title>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/pdfs/Rontech_VicBusinessLicence.PDF</link>
+     <link>http://rontech-si.github.io/pdfs/Rontech_VicBusinessLicence.PDF</link>
      <title></title>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/pdfs/NSW_Master_Licence2008.PDF</link>
+     <link>http://rontech-si.github.io/pdfs/NSW_Master_Licence2008.PDF</link>
      <title></title>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/index.php</link>
+     <link>http://rontech-si.github.io/index.php</link>
      <title>Alarm Monitoring, Alarm Systems, Access Control Systems, Security Systems, A1 Monitoring
 </title>
      <ror:updatePeriod></ror:updatePeriod>
@@ -293,42 +293,42 @@
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/rontech_security_grade_a1_monitoring.php</link>
+     <link>http://rontech-si.github.io/rontech_security_grade_a1_monitoring.php</link>
      <title>A1 Monitoring, Alarm Monitoring, Video Monitoring, Access Control</title>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/rontech_security_intruder.php</link>
+     <link>http://rontech-si.github.io/rontech_security_intruder.php</link>
      <title>Intruder Detection, Alarm Monitoring, Security Alarm Monitoring, Home Security</title>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/rontech_security_cctv.php</link>
+     <link>http://rontech-si.github.io/rontech_security_cctv.php</link>
      <title>CCTV, Alarm Monitoring, Intruder Detection, Home Security, A1 Monitoring</title>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/rontech_security_designs.php</link>
+     <link>http://rontech-si.github.io/rontech_security_designs.php</link>
      <title>Security Alarm Monitoring, Video Monitoring, CCTV, A1 Monitoring</title>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/rontech_security_servicing.php</link>
+     <link>http://rontech-si.github.io/rontech_security_servicing.php</link>
      <title>Alarm, Security, Home Security, Security Alarm Monitoring</title>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>3</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://www.rontech.com.au/rontech_security.php</link>
+     <link>http://rontech-si.github.io/rontech_security.php</link>
      <title>Security Alarm Monitoring, Video Monitoring, CCTV, Intruder Detection</title>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>4</ror:sortOrder>
